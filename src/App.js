@@ -11,7 +11,7 @@ export default function App() {
         <footer>
           This project was coded by{" "}
           <a
-            href=""
+            href="https://www.linkedin.com/in/m%C3%A1rcia-castro-08088210b/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -19,7 +19,7 @@ export default function App() {
           </a>{" "}
           and is{" "}
           <a
-            href="   "
+            href="https://github.com/MarciaCastro09/exercise-react-week5"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -27,7 +27,7 @@ export default function App() {
           </a>{" "}
           and{" "}
           <a
-            href="               "
+            href=""
             target="_blank"
             rel="noopener noreferrer"
           >
