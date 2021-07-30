@@ -8,7 +8,7 @@ export default function App() {
       <div className="container">
         <Weather defaultCity="Bragança" />
 
-        <footer>
+        <footer className="links">
           This project was coded by{" "}
           <a
             href="https://www.linkedin.com/in/m%C3%A1rcia-castro-08088210b/"
@@ -27,7 +27,7 @@ export default function App() {
           </a>{" "}
           and{" "}
           <a
-            href=""
+            href="https://gracious-pasteur-4ae7b0.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
