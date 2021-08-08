@@ -19,7 +19,7 @@ export default function App() {
           </a>{" "}
           and is{" "}
           <a
-            href="https://github.com/MarciaCastro09/exercise-react-week5"
+            href="https://github.com/MarciaCastro09/exercise-react-week6"
             target="_blank"
             rel="noopener noreferrer"
           >
