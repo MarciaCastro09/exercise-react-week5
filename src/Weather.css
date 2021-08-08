@@ -3,11 +3,13 @@
   border: 3px solid #4f9ca7;
   padding: 30px;
   border-radius: 50px;
-  color: rgb(76, 146, 158);
+  color: rgb(5, 66, 82);
+  box-shadow:  16px 16px 32px #b4d3ce;
+  background: linear-gradient(100deg, rgb(222, 241, 241) 70%, rgb(197, 242, 248) 100%);
 }
 
 .container {
-  color: rgb(164, 233, 164);
+  color: rgb(37, 119, 37);
 }
 
 .Weather h1 {
@@ -44,7 +46,7 @@
 }
 
 .Weather .unit {
-  color: rgb(129, 179, 168);
+  color: rgb(41, 131, 111);
   font-size: 16px;
   font-weight: 400;
   position: relative;
